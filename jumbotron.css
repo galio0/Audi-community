@@ -1,0 +1,73 @@
+body {
+  padding-top: 3.5rem;
+  background-color: white;
+   }
+
+.jumbotron{
+  background-image: url("img/new.jpg");	
+   -webkit-background-size: cover;
+   -moz-background-size: cover; 
+   -o-background-size: cover;
+    background-size: cover;
+}
+
+.col-md-4{
+	margin-top:10px;
+	border-style: groove;
+	border-radius: 25px;
+	background-color: rgb(224, 235, 235);
+
+   
+    
+}
+div.image-vn{
+	content: url("img/26178884_1678217918904649_2086873813_o.jpg");
+	width:320px;
+	height:150px;
+	align-content: center;
+}	
+
+div.image-bs{
+	content: url("img/26145223_1676415235751584_1855183619_o.jpg");
+	width:320px;	
+	height:150px;
+	align-content: center;
+}	
+
+div.image-sf{
+	content: url("img/25829473_1672530569473384_2072252140_o.jpg");
+	width:320px;
+	height:150px;
+	align-content: center;
+}	
+
+.navbar-brand{
+	content: url("img/Audi-logo-black-and-white.png");
+	width:100px;
+	}
+.dropdown-menu{
+	background-color:white;
+}
+h2 {
+	color: black;
+	font-style: italic;
+	text-align: center;
+
+}
+p {
+	color: black;
+}
+h3{
+	color:white	;
+	font-family: "Times New Roman";
+}
+h4{
+	color:green;
+	font-family: "Times New Roman";
+}
+h5{
+	color:red;
+	font-family: "Times New Roman";
+}
+
+
